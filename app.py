@@ -28,7 +28,7 @@ similarity = pickle.load(open('similarity.pkl','rb'))
 
 # def speak(text):
 #     # Initialize the text-to-speech engine
-
+# lkjlkj
 #     engine = pyttsx3.init()
 
 #     # Set properties (optional)
